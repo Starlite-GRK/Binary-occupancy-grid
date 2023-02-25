@@ -1,9 +1,9 @@
 # Binary-occupancy-grid
 
-**Objective**
+**Objective:**
 The objective of the project was to map an arena for a mobile robot using a binary occupancy  grid and find the best path between two points using probabilistic route mapping.
 
-**Introduction**
+**Introduction:**
 A mobile robot is an autonomous system or vehicle that can navigate or move in a given 
 environment. The three fundamental questions that are important and need to be solved for 
 creating an autonomous mobile robot are- “Where am I?” (Localization problem), “Where am I 
